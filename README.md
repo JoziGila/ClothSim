@@ -1,8 +1,5 @@
 Simple 2D cloth simulation made as a final project for Introduction to Java class.
-
-# Cloth Simulation
-
-The concept of this proof of concept application is not new at all as my fascination with simulating physics has been present since I learned to program. Essentially this program presents a grid of interconnected points that behaves as cloth. However simple it appears to the non-programmer the code has a fairly complex structure and is abstracted into several classes for better accessibility and readability. The underlying algorithms are used in almost any computer simulation and are very prominent in the field. 
+Build in NetBeans.
 
 # Implementation
 
